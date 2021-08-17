@@ -34,7 +34,5 @@ export default class Counter extends Component {
       return { count: prevState.count + amount };
     });
   }
-  /*
-    
-  */
+
 }
